@@ -58,8 +58,8 @@ It is built using **Streamlit** and a **Linear Regression model** trained on hou
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/your-repo-name
-cd your-repo-name
+git clone https://github.com/Thatipramod/house-price-prediction
+cd house-price-prediction
 
 ---
 
